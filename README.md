@@ -7,7 +7,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 In this work, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=xNtfhxfArX8)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/yasmine01545/The-Sparks-Foundation-Tasks/tree/main/Task1)
 
 
